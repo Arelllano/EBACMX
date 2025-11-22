@@ -9,3 +9,6 @@ print('Resultado = ', 300)
 a = 10
 a
 
+d = c *100
+print('resultado total = ', d)
+
