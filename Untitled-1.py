@@ -6,9 +6,10 @@ b = 30
 c =30*10
 print('Resultado = ', 300)
 
-a = 10
-a
+# Cambio el factor 102 segun requerimiento del negocio 
+# Cambio el factor 110  segun Junta Control 
+# Cambio a factor 200 por Directorio 
 
-d = c *100
+d = c * 200
 print('resultado total = ', d)
 
